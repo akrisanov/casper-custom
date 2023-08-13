@@ -1,7 +1,7 @@
 {
     "name": "casper-custom",
-    "description": "A clean, minimal default theme for the Ghost publishing platform",
-    "demo": "https://demo.ghost.io",
+    "description": "A customized default theme for the Ghost publishing platform",
+    "demo": "https://akrisanov.com",
     "version": "5.6.0",
     "engines": {
         "ghost": ">=5.0.0"
@@ -22,9 +22,8 @@
         "postship": "git fetch && gulp release"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org/"
+        "name": "Andrey Krisanov",
+        "url": "https://akrisanov.com/"
     },
     "gpm": {
         "type": "theme",
@@ -40,10 +39,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/akrisanov/casper-custom.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
     "devDependencies": {
         "@tryghost/release-utils": "0.8.1",
         "autoprefixer": "10.4.7",
