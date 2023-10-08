@@ -23,7 +23,8 @@
     },
     "author": {
         "name": "Andrey Krisanov",
-        "url": "https://akrisanov.com/"
+        "url": "https://akrisanov.com/",
+        "email": "238505+akrisanov@users.noreply.github.com",
     },
     "gpm": {
         "type": "theme",
